@@ -45,7 +45,9 @@ Example: The dashboard was built using the following tools and technologies:
 ●	Downstream routing analysis tracking ICU transfers, surgical ward admissions, and outpatient discharge instructions.
 
 # 5. Screenshots /Demo 
-
+![Dashboard Preview](https://github.com/chinmayrgawde/Hospital-Er-Dashboard/blob/main/Hospilta%20Er%20Snap1.PNG)
+![Dashboard Preview](https://github.com/chinmayrgawde/Hospital-Er-Dashboard/blob/main/Hospital%20Er%20snap2.PNG)
+![Dashboard Preview](https://github.com/chinmayrgawde/Hospital-Er-Dashboard/blob/main/Hospital%20Er%20Snap3.PNG)
 
 
 
